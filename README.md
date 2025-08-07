@@ -1,2 +1,2 @@
-#Code Description:
-This Matlab code provides an implementation of an algorithm named CGUFS-IMC, designed specifically for handling incomplete multi-view data. It adopts an Alternating Direction Method of Multipliers (ADMM) framework, integrating multiple tasks—including data imputation, feature selection, self-representation, and consensus graph learning—into a unified model. This approach effectively leverages multi-view information while addressing the challenges posed by missing data.
+Code Description:
+This Matlab code implements CGUFS-IMC, an algorithm for incomplete multi-view data. Using the ADMM framework, it unifies data imputation, feature selection, self-representation, and consensus graph learning. It effectively leverages multi-view information while addressing missing data challenges.
